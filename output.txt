@@ -1,0 +1,19 @@
+Enter 1 for single player, 2 for multiplayer: 2
+Enter X's position from [1, 2, 3, .... 9]: 1
+Enter O's position from [1, 2, 3, .... 9]: 3
+Enter X's position from [1, 2, 3, .... 9]: 4
+Enter O's position from [1, 2, 3, .... 9]: 5
+Enter X's position from [1, 2, 3, .... 9]: 6
+Enter O's position from [1, 2, 3, .... 9]: 2
+Enter X's position from [1, 2, 3, .... 9]: 7
+Current state of the board:
+
+
+X  O  O  
+
+X  O  X  
+
+X  _  _  
+
+
+Player X wins! Player O loses!
